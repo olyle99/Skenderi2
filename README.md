@@ -3611,3 +3611,445 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamip
 #EXTINF:-1 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/VgbvNq3/ONE.png",[$]ONEGOLF HD 
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?77
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] EMIGRANTI 1 [$]
+https://videos.files.wordpress.com/beeADp8M/becoffee-emigranti1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] EMIGRANTI 2 [$]
+https://videos.files.wordpress.com/S81AZMeb/becoffee-emigranti2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] KOSOVARI [$]
+https://videos.files.wordpress.com/ywsHsQON/becoffee-kosovari_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] PUSHIMET NE DHERMI [$]
+https://videos.files.wordpress.com/D8ZSxfvx/becoffee-pushimetnedhermi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] TURIZMI DENTAR [$]
+https://videos.files.wordpress.com/U68U0OFp/becoffee-turizmidentar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] SHITESI AMBULANT [$]
+https://videos.files.wordpress.com/B51aAoof/becoffee-shitesiambulant_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] SHITESJA E MAJDANOZIT [$]
+https://videos.files.wordpress.com/C5hj9Bbr/becoffee-shitesjaemajdanozit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] GOCAT E BREZIT TE RI [$]
+https://videos.files.wordpress.com/Bliuo2wk/olsimonolog-gocatebrezitteri_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:BESTYTNITE [$]
+https://videos.files.wordpress.com/dnKNotak/olsimonolog-bestytnite_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:HALLOWEEN [$]
+https://videos.files.wordpress.com/f3iv4316/halloween_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:INTERESI [$]
+https://videos.files.wordpress.com/tHhv7bFu/interesi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:KOMBETARJA [$]
+https://videos.files.wordpress.com/fQiaYs0c/kombetarja_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:KUR FEMRAT BEJNE LIGJIN [$]
+https://videos.files.wordpress.com/oW1TPbdB/kurfemratbejneligjin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:MOS I MESONI TELEFONIN PRINDERVE [$]
+https://videos.files.wordpress.com/YKPbVpPV/mosimesonitelefoninprinderve_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:RAKIA [$]
+https://videos.files.wordpress.com/oGH95Lxr/rakia_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:NE KLAN [$]
+https://videos.files.wordpress.com/wVMrxKSz/neklan_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:SEMUNDJA [$]
+https://videos.files.wordpress.com/aEAepJuq/semundja_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:VITI I RI [$]
+https://videos.files.wordpress.com/iPdxXkn7/vitiiri_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?88
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] 1 PRILLI [$]
+https://videos.files.wordpress.com/unluh8hE/1prilli_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] AKSION ME SKIFTERIN [$]
+https://videos.files.wordpress.com/dGYVoaYo/aksionmeskifterin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] ALERGJIA E KOLES [$]
+https://videos.files.wordpress.com/vIOs6bEZ/alergjiaekolc3abs_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] ALO 112 [$]
+https://videos.files.wordpress.com/kykBCH1A/alo112_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] AMANETET E KOLES [$]
+https://videos.files.wordpress.com/UtdoUdff/amanetetekolc3abs_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] ALO 129 [$]
+https://videos.files.wordpress.com/ysjvohfA/alo129_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] APLIKACIONI TIK-TOK [$]
+https://videos.files.wordpress.com/lZoCstq6/aplikacionitik-tok_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] BANGLADESHASIT [$]
+https://videos.files.wordpress.com/Z7xoyrak/bangladeshasit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] BANKOMATI [$]
+https://videos.files.wordpress.com/VRJcvet5/bankomati_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] BERISHA DHE BASHA [$]
+https://videos.files.wordpress.com/arVV5AMX/berishadhebasha_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] CIFTI NE MAKINE [$]
+https://videos.files.wordpress.com/HHnMSq4P/ciftinemakine_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] NDALIMI I XHILJETES [$]
+https://videos.files.wordpress.com/uKyKWuol/c387iljetaxhilaga_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DEKORIMI [$]
+https://videos.files.wordpress.com/GrJYBEkY/dekorimi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DENONCIMI I LENESHAVE [$]
+https://videos.files.wordpress.com/Hu1PTmFf/denoncimiileneshave_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DHOMA E VOGEL [$]
+https://videos.files.wordpress.com/IKZa8xoW/dhomaevogc3abl_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DHURIMI I GJAKUT [$]
+https://videos.files.wordpress.com/Lz2okntL/dhurimiigjakut_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DIETAT [$]
+https://videos.files.wordpress.com/MHXJSy42/dietat_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DJALI NE BURG [$]
+https://videos.files.wordpress.com/9rZWL7nr/djalinc3abburg_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DITARI I RRUGES [$]
+https://videos.files.wordpress.com/d06a9PDZ/ditariirruges_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] DJEGIA E HASHASHIT [$]
+https://videos.files.wordpress.com/wDg5Ygjw/djegiaehashashit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] GURET E TEMTHIT [$]
+https://videos.files.wordpress.com/7l7OQbK7/gurc3abtetc3abmthit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] GOMARI TRAFIKANT [$]
+https://videos.files.wordpress.com/nyIjnzSC/gomaritrafikant_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] HETUESIA [$]
+https://videos.files.wordpress.com/syDUIq6r/hetuesia_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLA FTON MIRIN NE SHTEPI [$]
+https://videos.files.wordpress.com/Iyey5rrh/kolaftonmirinneshtepi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLA LE POLICINE [$]
+https://videos.files.wordpress.com/yFNKRZPQ/kolalepolicine_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KAMERA NE TRUP [$]
+https://videos.files.wordpress.com/aSo3VW8j/kameranetrup_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] ISHET E MIRIT [$]
+https://videos.files.wordpress.com/lt0Zxm1B/ishetemirit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLA BIZNESMEN [$]
+https://videos.files.wordpress.com/v2vKVCnb/kolabiznesmen_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLEN E KA ZENE KORENTI [$]
+https://videos.files.wordpress.com/0rxKmbSW/kolenekazenekorenti_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLASHINA [$]
+https://videos.files.wordpress.com/C3aFhbL8/kolashina_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOLICIA [$]
+https://videos.files.wordpress.com/su0YtcoG/kolicia_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KONTROLLI NE BURG [$]
+https://videos.files.wordpress.com/I7DKPsae/kontrollinc3abburg_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KUSH SHAN ME SHUME [$]
+https://videos.files.wordpress.com/oMc3Nu6D/kushshanmc3abshumc3ab_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KOMISARIATI DIGJITAL [$]
+https://videos.files.wordpress.com/cZw2iG9r/komisariatidigital_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] MAKINA E TRAFIKANTIT [$]
+https://videos.files.wordpress.com/YNEVQgVS/makinaetrafikantit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] MAMAJA E REVOLTUAR [$]
+https://videos.files.wordpress.com/25EGkej2/mamajaerevoltuar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] MAKINA E DAVID BECKHAM [$]
+https://videos.files.wordpress.com/e12whsSC/makinaedavidbeckham_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] NADLIM NE POSTBLLOK [$]
+https://videos.files.wordpress.com/y2UU1epK/ndalimnepostbllok_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] MU RRIT CUNI [$]
+https://videos.files.wordpress.com/lrOIwNGd/murritcuni_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] KURSI I ANGLISHTES [$]
+https://videos.files.wordpress.com/PwOO8e1s/kursiianglishtes_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] NDESHJA SHQIPERI-SERBI [$]
+https://videos.files.wordpress.com/ZHHwS4cU/ndeshjashqiperi-serbi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] NDALIMI I XUXIT [$]
+https://videos.files.wordpress.com/uJRC9MS0/ndalimiixuxit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] ORE MESIMI ME FEMIJET [$]
+https://videos.files.wordpress.com/SXrzVv5m/oremesimimefemijet_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PARAQITJA E FORCES [$]
+https://videos.files.wordpress.com/vM1Yon8s/paraqitjaeforces_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PENGMARRJE NE BANKE [$]
+https://videos.files.wordpress.com/wKS2mUE1/pengmarrjenebanke_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PAS 8 MARSIT [$]
+https://videos.files.wordpress.com/SXCbZhWq/pas8marsit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PERVJETORI [$]
+https://videos.files.wordpress.com/gApNzyBp/pc3abrvjetori_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PERGJIMI [$]
+https://videos.files.wordpress.com/o0ZLoRiZ/pc3abrgjimi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PICIERI TAKSI [$]
+https://videos.files.wordpress.com/sSvd5Z2g/picieritaksi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TE FTUAR NE "PASDITE DHE PORTOKALLE" [$]
+https://videos.files.wordpress.com/7Cdhkmba/policatteftuarne27pasditedheportokalle_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] POLICET NEN HETIM [$]
+https://videos.files.wordpress.com/BAt5FqOX/policetnenhetim_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PRINDERIT NE GJUME [$]
+https://videos.files.wordpress.com/dIVzhTUe/prinderitnc3abgjumc3ab_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] POLICI-LEAKS [$]
+https://videos.files.wordpress.com/NaxIJ3Ap/polici-leaks_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] REFORMA NE POLICI [$]
+https://videos.files.wordpress.com/y8H24vq2/reformatnepolici2ckompjuteri_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] RRJETI I PROSTITUCIONIT [$]
+https://videos.files.wordpress.com/lCiWwwIb/rrjetiiprostitucionit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] RROGA [$]
+https://videos.files.wordpress.com/TkriIh9M/rroga_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] PROVIMI I BKH [$]
+https://videos.files.wordpress.com/ePIWwWxb/provimiibkh_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] SHERRI MES SHOKEVE [$]
+https://videos.files.wordpress.com/iFwFbVDY/sherrimesshokeve_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] SHITESJA E MAJDANOZIT [$]
+https://videos.files.wordpress.com/JR9lyMHm/shitesjamajdanozit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] SYZET OFL [$]
+https://videos.files.wordpress.com/oa9ONk4O/syzetofl_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] SHPETIMI I JETES [$]
+https://videos.files.wordpress.com/avKiYY4y/shpetimiijetes_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] SPITALI PRIVAT [$]
+https://videos.files.wordpress.com/2k5PBsOv/spitaliprivat_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TA TREGOJ UNE TY! [$]
+https://videos.files.wordpress.com/DxFQ9SZZ/tatregojunc3abty_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TE AZILI I PLEQVE [$]
+https://videos.files.wordpress.com/6PDNoTF4/teaziliipleqve_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TEK DENTISTI [$]
+https://videos.files.wordpress.com/UNDN0d1M/tekdentisti_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TENXHERJA ME PARA [$]
+https://videos.files.wordpress.com/rnUuu4VM/tenxherjamepara_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TESTI PER KOMISAR [$]
+https://videos.files.wordpress.com/wr8LJVHl/testipc3abrkomisar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TUNDIMI [$]
+https://videos.files.wordpress.com/X3VigVMg/tundimi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TURISTET E HUAJA [$]
+https://videos.files.wordpress.com/BfxM3xXW/turistetehuaja_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] TE VETEM NE QYTET [$]
+https://videos.files.wordpress.com/lXnFBzS0/tc3abvetc3abmnc3abqytet_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] VAKSINA ANTI-COVID [$]
+https://videos.files.wordpress.com/TX8ul9Hu/vaksinaanticovid_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] VJEDHJA E SHTEPISE [$]
+https://videos.files.wordpress.com/YusMfZKi/vjedhjaeshtepise_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?99
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BALENA BLU [$]
+https://videos.files.wordpress.com/3ZMeV3YT/kimikati-balenablu_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BLOGER [$]
+https://videos.files.wordpress.com/WJSWJq8o/kimikati-bloger_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BREZI I RI [$]
+https://videos.files.wordpress.com/V816Q62G/kimikati-breziiri_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] ÇFARE MESOVA NGA KY VIT SHKOLLOR [$]
+https://videos.files.wordpress.com/FKT7WYHt/kimikati-cfaremesovangakyvitshkollor_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] ÇMIMI "NOBEL" NE LETERSI [$]
+https://videos.files.wordpress.com/eQddlpcS/kimikati-cmiminobelneletersi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] DESHMITARET E JEHOVAIT [$]
+https://videos.files.wordpress.com/64sffeop/kimikati-deshmitaretejehovait_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] E DASHURA E RE [$]
+https://videos.files.wordpress.com/MYXcnKsN/kimikati-edashuraere21_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] ESHTE ZENE ENCA ME NOIZIN [$]
+https://videos.files.wordpress.com/H8wf9BBx/kimikati-eshtezeneencamenoizin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] FEMRAT QE DALIN LAKURIQ [$]
+https://videos.files.wordpress.com/VapwCiQ1/kimikati-femratqedalinlakuriq_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] JANE PAJTUAR LEDRI ME NOIZIN [$]
+https://videos.files.wordpress.com/h0JdKN0r/kimikati-janepajtuarledrimenoizin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KA FTUAR ÇUNAT NE SHTEPI [$]
+https://videos.files.wordpress.com/cQzu19F8/kimikati-kaftuarcunatneshtepi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KAMARIER [$]
+https://videos.files.wordpress.com/1w6cvwim/kimikati-kamarier_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KENGET E ALBAN SKENDERAJ [$]
+https://videos.files.wordpress.com/NmVpW4uW/kimikati-kengetealbanskenderaj_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KENGETARET NE QEVERI [$]
+https://videos.files.wordpress.com/dGCwxJs1/kimikati-kengetaretneqeveri_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KOMENTET E FISIT NE FACEBOOK [$]
+https://videos.files.wordpress.com/DYEoYtL8/kimikati-komentetefisitnefacebook_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] KUR BIE BRENDA [$]
+https://videos.files.wordpress.com/Wu6NTz5G/kimikati-kurbiebrenda21_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] MBLEDHJA ME PRINDER [$]
+https://videos.files.wordpress.com/oHRmas3c/kimikati-mbledhjameprinder_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] ME KANE NGACMUAR TE DASHUREN [$]
+https://videos.files.wordpress.com/2SzLfUBF/kimikati-mekanengacmuartedashuren_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] ME RA "FATI" [$]
+https://videos.files.wordpress.com/SDIUGyno/kimikati-merae2809cfatie2809d_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NE DASEM [$]
+https://videos.files.wordpress.com/B4JjoNXY/kimikati-nedasem_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NE RAJON [$]
+https://videos.files.wordpress.com/Cjyd7oCs/kimikati-nerajon_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NE STRIP CLUB [$]
+https://videos.files.wordpress.com/HllXYRpf/kimikati-nestripclub_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NE SHTEPI [$]
+https://videos.files.wordpress.com/dAaYQSwA/kimikati-neshtepi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] PO VIJNE PUSHIMET, MBAROI SHKOLLA [$]
+https://videos.files.wordpress.com/I0VlGDPo/kimikati-povijnepushimet2cmbaroishkolla_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] POEZITE E DRITEOIT DHE KADARESE [$]
+https://videos.files.wordpress.com/0OCJTd6k/kimikati-poeziteedriteroitdhekadarese_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] PROFESOR NGA MAMINSI [$]
+https://videos.files.wordpress.com/RBPdm5GK/kimikati-profesorngamaminsi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] S'ME KUPTO PLAKU  [$]
+https://videos.files.wordpress.com/MCNNJmDD/kimikati-se28099mekuptoplaku21_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] SHOKU ME PUSHIME NE JUG [$]
+https://videos.files.wordpress.com/Wmh2Td4S/kimikati-shokumepushimenejug_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] SURPRIZA E KUSHERINJVE PER DITELINDJE [$]
+https://videos.files.wordpress.com/kAXwQZ14/kimikati-surprizaekusherinjveperditelindje_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] TAKIM NGA BLLOKU [$]
+https://videos.files.wordpress.com/gElO3Z08/kimikati-takimngablloku_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] TEK MUZEU KOMBETAR [$]
+https://videos.files.wordpress.com/S9UBtqug/kimikati-tekmuzeukombetar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] XHAJA NGA ANGLIA [$]
+https://videos.files.wordpress.com/PiRjXgAw/kimikati-xhajangaanglia_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BISEDA SI BURRI BURRIT [$]
+https://videos.files.wordpress.com/UCB0b7rr/kimikatibisedasiburriburrit_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NDALIMI NGA POLICIA [$]
+https://videos.files.wordpress.com/nXpFjI5N/kimikati-policatepostbllokut_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?00
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] ANALISTET: LISTAT [$]
+https://videos.files.wordpress.com/zeMsFUtA/analistet_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] ANALISTET: FLETA E VOTIMIT [$]
+https://videos.files.wordpress.com/AMCcwdrj/analistet2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] BASHA: HARRESA [$]
+https://videos.files.wordpress.com/8eedAyvt/basha28harresa29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] BASHA: KANDIDATET [$]
+https://videos.files.wordpress.com/LYYM1iQ7/basha28kandidatet29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] BASHA: PASTRIMI I PARTISE [$]
+https://videos.files.wordpress.com/y4a3oZyp/basha28pastrimiipartise29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] BASHA & GJINI: RITUALI [$]
+https://videos.files.wordpress.com/xJhqKwkw/basha26gjini28rituali29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] BASHA: FAJESIMI [$]
+https://videos.files.wordpress.com/DuX27ulJ/basha26mona28fajesimi29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: DILEMA [$]
+https://videos.files.wordpress.com/zVVAz9Iv/gjini28dilema29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: KUJDES VAKSINAT [$]
+https://videos.files.wordpress.com/Ylbj9Wrk/gjini28kujdesvaksinat29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: ZGJEDHJET NE PD [$]
+https://videos.files.wordpress.com/MTJZuYde/gjini28zgjedhjetnepd29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: AMERIKA [$]
+https://videos.files.wordpress.com/YAXKqDFh/gjiniamerika_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: MARRJA E KENGETAREVE [$]
+https://videos.files.wordpress.com/RIKiKM16/gjinipd_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: HUMBJA E ZGJEDHJEVE [$]
+https://videos.files.wordpress.com/MZI58r15/gjinipd2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] GJINI: PREZANTIMI [$]
+https://videos.files.wordpress.com/MTriPbPj/gjiniprezantimi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] LILI & NONA [$]
+https://videos.files.wordpress.com/dCKnG0Rk/lili26nona_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] RAMA & NONA [$]
+https://videos.files.wordpress.com/5UjaZ2zF/rama26nona_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] LAJMET TIRANE-PRISHTINE [$]
+https://videos.files.wordpress.com/1AbAKRD8/lajmettirane-prishtine_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] SKIFTERI: KARABINIER [$]
+https://videos.files.wordpress.com/RbYGEOZ7/skifteri28karabinier29_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] SKIFTERI: MJEK [$]
+https://videos.files.wordpress.com/CkHzZJwo/skifterimjek_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] SKIFTERI: PREZANTIMI [$]
+https://videos.files.wordpress.com/KQiTkJyM/skifteriprezantimi_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] PERFORMANCA E INSTAGIRLS
+https://videos.files.wordpress.com/cOkQLAmr/performancaee2809cdyshoqevee2809dqendeziskenenee2809ckengesmagjikee2809d_full-hd_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?0
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.01 [$]
+http://62.210.209.138:41000/series/v52/v43/1844.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.02 [$]
+http://62.210.209.138:41000/series/v52/v43/1845.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.03 [$]
+http://62.210.209.138:41000/series/v52/v43/1846.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.04 [$]
+http://62.210.209.138:41000/series/v52/v43/1847.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.05 [$]
+http://62.210.209.138:41000/series/v52/v43/1848.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.06 [$]
+http://62.210.209.138:41000/series/v52/v43/1849.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.07 [$]
+http://62.210.209.138:41000/series/v52/v43/1850.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.08 [$]
+http://62.210.209.138:41000/series/v52/v43/1851.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.09 [$]
+http://62.210.209.138:41000/series/v52/v43/1852.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.10 [$]
+http://62.210.209.138:41000/series/v52/v43/1853.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.11 [$]
+http://62.210.209.138:41000/series/v52/v43/1854.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.12 [$]
+http://62.210.209.138:41000/series/v52/v43/1855.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.13 [$]
+http://62.210.209.138:41000/series/v52/v43/1856.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.14 [$]
+http://62.210.209.138:41000/series/v52/v43/1857.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.15 [$]
+http://62.210.209.138:41000/series/v52/v43/1858.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.16 [$]
+http://62.210.209.138:41000/series/v52/v43/1859.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?1
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.01 [$]
+https://videos.files.wordpress.com/FJm55X4A/2xl01.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.02 [$]
+https://videos.files.wordpress.com/aQi2638X/2xl01.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.03 [$]
+https://videos.files.wordpress.com/KE88Z7WP/2xl02.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.04 [$]
+https://videos.files.wordpress.com/FSHl4Y5t/2xl02.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.05 [$]
+https://videos.files.wordpress.com/Hmr6kGbL/2xl02.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.06 [$]
+https://videos.files.wordpress.com/TYqJ5cnq/2xl03.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.07 [$]
+https://videos.files.wordpress.com/exuJzH93/2xl03.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.08 [$]
+https://videos.files.wordpress.com/JtOnN7i1/2xl04.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.09 [$]
+https://videos.files.wordpress.com/p0rmFzTZ/2xl04.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.10 [$]
+https://videos.files.wordpress.com/EpQihFLF/2xl04.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.11 [$]
+https://videos.files.wordpress.com/oXuODDg0/2xl05.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.12 [$]
+https://videos.files.wordpress.com/VuRiUkUC/2xl05.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.13 [$]
+https://videos.files.wordpress.com/LMyiGBvv/2xl05.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.14 [$]
+https://videos.files.wordpress.com/di28JHWi/2xl1.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.15 [$]
+https://videos.files.wordpress.com/hRjCsMbm/2xl1.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.16 [$]
+https://videos.files.wordpress.com/5jisQbYy/2xl1.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.17 [$]
+https://videos.files.wordpress.com/pe5QEDRv/2xl2-1.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.18 [$]
+https://videos.files.wordpress.com/mRsBCt0D/2xl2-1.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.19 [$]
+https://videos.files.wordpress.com/LjpcXf4o/2xl2.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.20 [$]
+https://videos.files.wordpress.com/S0izH5qU/2xl2.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.21 [$]
+https://videos.files.wordpress.com/KsEOU4jg/2xl3.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.22 [$]
+https://videos.files.wordpress.com/9Il7fTyZ/2xl3.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.23 [$]
+https://videos.files.wordpress.com/VxOOuoFm/2xl3.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.24 [$]
+https://videos.files.wordpress.com/6QTDjKv9/2xl4.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.25 [$]
+https://videos.files.wordpress.com/jKzkRi9i/2xl4-1.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.26 [$]
+https://videos.files.wordpress.com/rA8MaAAu/2xl4.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.27 [$]
+https://videos.files.wordpress.com/5jKBW6xC/2xl4.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.28 [$]
+https://videos.files.wordpress.com/5gLDtHPW/2xl5.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.29 [$]
+https://videos.files.wordpress.com/xrM36Gnr/2xl5.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.30 [$]
+https://videos.files.wordpress.com/W2re5Fdb/2xl5.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.31 [$]
+https://videos.files.wordpress.com/DnzSI6dL/2xl5.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.32 [$]
+https://videos.files.wordpress.com/xhyjAwuC/2xl6.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.33 [$]
+https://videos.files.wordpress.com/7KDcluhY/2xl6.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.34 [$]
+https://videos.files.wordpress.com/q0pe243z/2xl6.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.35 [$]
+https://videos.files.wordpress.com/vRDYqRJa/2xl7-1.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.36 [$]
+https://videos.files.wordpress.com/Pu9ltNdB/2xl7-1.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.37 [$]
+https://videos.files.wordpress.com/FX4oo5jL/2xl7.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.38 [$]
+https://videos.files.wordpress.com/rOCPPVGg/2xl7.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.39 [$]
+https://videos.files.wordpress.com/GoVztwGT/2xl7.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.40 [$]
+https://videos.files.wordpress.com/kmgCV3r6/2xl7.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.41 [$]
+https://videos.files.wordpress.com/hqk7x75P/2xl401.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.42 [$]
+https://videos.files.wordpress.com/SHdWbhqp/2xl401.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.43 [$]
+https://videos.files.wordpress.com/jzSG4xMN/2xl402.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.44 [$]
+https://videos.files.wordpress.com/VzOSAFyv/2xl402.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.45 [$]
+https://videos.files.wordpress.com/tAkul59k/2xl402.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.46 [$]
+https://videos.files.wordpress.com/pF8mWlaC/2xl403.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.47 [$]
+https://videos.files.wordpress.com/2vh9XRKW/2xl403.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.48 [$]
+https://videos.files.wordpress.com/3FY1pN4s/2xl403.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.49 [$]
+https://videos.files.wordpress.com/WsYoDWMb/2xl404.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.50 [$]
+https://videos.files.wordpress.com/eDeaE1Wb/2xl404.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.51 [$]
+https://videos.files.wordpress.com/5Sanko9e/2xl404.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.52 [$]
+https://videos.files.wordpress.com/EOND58Vq/2xl405.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.53 [$]
+https://videos.files.wordpress.com/o4wn55lJ/2xl405.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.54 [$]
+https://videos.files.wordpress.com/qfGoxNju/2xl405.3_mp4_dvd.mp4
