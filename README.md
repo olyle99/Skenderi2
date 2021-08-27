@@ -2056,61 +2056,6 @@ http://178.132.220.2:8001/play/a008/index.m3u8
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/cXzCJBp/SMILE.jpg",[$]Smile
 http://178.132.220.2:8001/play/a00d/index.m3u8
 
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/UPaCZ0e.png",[$]POPCORN 1HD
-http://f4.tvxweb.net:8082/24263/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/n5rrBWx.png",[$]POPCORN 2HD
-http://f4.tvxweb.net:8082/24264/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/IuJxTtZ.png",[$]POPCORN 3HD
-http://f4.tvxweb.net:8082/24265/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/RupSByB.png",[$]POPCORN 4HD
-http://f4.tvxweb.net:8082/24266/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/RJUhCBF.png",[$]POPCORN 5HD
-http://f4.tvxweb.net:8082/24268/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/oyJ0HGj.png",[$]POPCORN 6HD
-http://f4.tvxweb.net:8082/24269/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/akldyjR.png",[$]POPCORN 7HD
-http://f4.tvxweb.net:8082/24270/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/g3cb3LY.png",[$]POPCORN 8HD
-http://f4.tvxweb.net:8082/24271/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/0tCvLYS.png",[$]POPCORN 9HD
-http://f4.tvxweb.net:8082/24272/playlist.m3u8
-#EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/qNWKQ9U.png",[$]POPCORN 10HD
-http://f4.tvxweb.net:8082/24273/playlist.m3u8
-
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 1HD
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/406
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 2HD
-http://93.157.62.180/Supersport2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 3HD
-http://51.89.195.111:8880/ss2/playlist.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 4HD
-http://93.157.62.180/RTSH1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 5HD
-http://93.157.62.180/RTSHSport/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 6HD
-http://84.22.33.254/unicast.rtk1/video.m3u8?token=tv
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 7HD
-http://109.105.201.198/HRT2HD/video.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 8HD
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ 
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 9HD
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ 
-#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 10HD
-http://91.240.83.247:8101
-
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 1HD
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/405
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 2HD
-http://93.157.62.180/Supersport3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 3HD
-http://51.89.195.111:8880/ss3/playlist.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 4HD
-http://flusonic-1.platinum-tv.com/equipe_21/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 5HD
-http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]COPA AMERICA 2020" tvg-logo="https://i.imgur.com/p6z9zkS.png",[$]SPORT 6HD
-http://93.157.62.180/ArenaSport1/index.m3u8|User-Agent=stream
-
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Ij2qZNW.png",[$]SUPER SPORT 1HD 
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/429
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/0tTfJL9.png",[$]SUPER SPORT 2HD 
@@ -2230,7 +2175,7 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/421
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/BzvYkhj/TNews.jpg",[$]TRING SPORT NEWS HD
 http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/jVrVyjf/T1.jpg",[$]TRING SPORT 1HD
-http://95.107.132.106/out/u/683_1.m3u8
+http://95.107.132.106/out/u/683_3.m3u8
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/LdS2v30/T2.jpg",[$]TRING SPORT 2HD
 http://95.107.132.106/out/u/691_2.m3u8
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/Smmm957/T3.jpg",[$]TRING SPORT 3HD
