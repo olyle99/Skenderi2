@@ -3997,4 +3997,4 @@ https://videos.files.wordpress.com/EOND58Vq/2xl405.1_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.53 [$]
 https://videos.files.wordpress.com/o4wn55lJ/2xl405.2_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.54 [$]
-https://videos.files.wordpress.com/qfGoxNju/2xl405.3_mp4_dvd.mp4
+https://videos.files.wordpress.com/qfGoxNju/2xl405.3_mp4_dvd.mp4 
